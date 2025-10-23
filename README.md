@@ -33,7 +33,7 @@
 
 ### 第三方服务
 - **DeepSeek API**：您的自然语言输入会发送到DeepSeek API进行处理，请参阅[DeepSeek隐私政策](https://www.deepseek.com/privacy)
-- **禄得网**：扩展在 `https://next.lude.site/*` 页面上运行，仅用于增强页面功能，不收集或传输页面数据
+- **禄得网**：扩展在 `https://next.lude.site` 页面上运行，仅用于增强页面功能，不收集或传输页面数据
 
 ## 数据安全
 - 所有数据存储均使用Chrome浏览器的安全存储API
@@ -74,8 +74,8 @@
 
 ## 联系我们
 如对本隐私政策有任何疑问，请通过以下方式联系：
-- GitHub Issues: [项目地址]
-- Email: [您的联系邮箱]
+- GitHub Issues: https://github.com/796simon/PRIVACY_POLICY/edit/main/README.md
+- Email: simonzhangxxx@gmail.com
 
 ---
 
